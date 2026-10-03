@@ -1,3 +1,3 @@
 This is the git project
 update
-comment: Hello
+comment: HelloAdded a line to the docs.
